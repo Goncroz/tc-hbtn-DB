@@ -35,4 +35,10 @@ public class Cliente {
     public void setRG(String RG) {
         this.RG = RG;
     }
+
+    public void setCpf(String s) {
+    }
+
+    public void setRg(String s) {
+    }
 }
